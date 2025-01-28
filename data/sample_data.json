@@ -1,0 +1,10 @@
+{
+    "status": "ok",
+    "data": {
+        "aqi": 75,
+        "city": {
+            "name": "Kolkata",
+            "geo": [22.5726, 88.3639]
+        }
+    }
+}
