@@ -1,4 +1,4 @@
-# 🏭 💨 BreatheEasy - Real-Time Air Quality Monitoring System 🌬️
+# 🏭 💨 BreatheEasy - Real-Time Air Quality Monitoring System 🌬️ (Hack for Humanity Hackathon(Devpost))
 
 **BreatheEasy** is a real-time air quality monitoring system that uses OpenWeatherMap's Air Pollution API to track and predict the Air Quality Index (AQI) of a given location. This project aims to raise awareness about air pollution and provide users with actionable recommendations to protect their health based on the AQI levels. 
 
